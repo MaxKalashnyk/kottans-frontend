@@ -1,2 +1,2 @@
 # kottans-frontend
-My progress in kottans frontdend course
+My progress in kottans frontend course

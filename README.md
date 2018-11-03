@@ -6,7 +6,7 @@ My progress in kottans frontend course
 In the first self-study part I finished the course [How to use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 My final progress is in attach below:
 
-![Course progress](https://github.com/petrovsa/kottans-frontend/blob/master/task1/images/git.jpg)
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task1/images/git.jpg)
 
 I'm really proud of completing this useful course, because I acquired there a lot of skills such as:
 

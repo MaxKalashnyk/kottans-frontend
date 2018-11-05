@@ -22,5 +22,9 @@ I'm really proud of completing this useful course, because I acquired there a lo
 Also I began to read and analyze information in [try.github.io/](http://try.github.io/)
 
 Thanks organizers for interesting additional materials! Look forward to learn materials from the next lessons :) 
-  
+
+
+## Linux CLI, and HTTP
+
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_linux_cli/1.png)
 

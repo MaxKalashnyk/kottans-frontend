@@ -40,5 +40,17 @@ After completing course 'Learn the Command Line', reading articles about HTTP an
 Majority of information was not new for me, but for example, knowledge of HTTP caching was new and very interesting.
 Knowledge of networking is very important for frontend devs, so I also started completing course 'Networking for Web Developers'.  
 
+## Git Collaboration
+
+I have completed the course 'What is Version Control'.
+Most of information there is not new for me, but I learned new commands and principles in Git , such as reverting and resetting commits and also worked with command and flags to this operations.
+
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_git_collaboration/git.png)
+
+Also I completed the course 'GitHub & Collaboration'. There were a lot of useful materials about how to use rebase commands and other information I recently learned.
+
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_git_collaboration/git-collab.png)
+
+
   
 

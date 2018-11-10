@@ -52,5 +52,17 @@ Also I completed the course 'GitHub & Collaboration'. There were a lot of useful
 ![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_git_collaboration/git-collab.png)
 
 
+## Intro to HTML and CSS
+
+I have finished the course 'Intro to HTML & CSS (Eng)'. Nothing new for me was there, because I am working with creating layouts for more than 2 years, but to my mind for beginners it is nice course to learn basics of building web page layouts.
+ 
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_git_html_css_intro/html-udacity.png) 
+
+Series of courses of HTML Academy: "Basics of HTML" & "Basics of CSS" I also have completed and all materials were also not new for me, but after completing these courses I would like to thank authors, because courses information was very easy to understand and I also can say that after completing this course people who don't know anything about HTML/CSS before, can create complex layouts of different web pages.
+
+#### My progress in HTML course
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_git_html_css_intro/html.png) 
+#### My progress in CSS course
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_git_html_css_intro/css.png) 
   
 

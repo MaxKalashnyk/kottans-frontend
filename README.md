@@ -64,5 +64,13 @@ Series of courses of HTML Academy: "Basics of HTML" & "Basics of CSS" I also hav
 ![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_git_html_css_intro/html.png) 
 #### My progress in CSS course
 ![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_git_html_css_intro/css.png) 
-  
+
+
+## Responsive Web Design
+
+I have completed the course Responsive Web Design Fundamentals. It was very interesting, especially in making responsive tables and responsive web design patterns.
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_responsive_web_design/resp_course.png) 
+
+Also I finished very interesting Flexbox Froggy tutorial with tasks. To my mind, mini-courses like this are the most interesting and simple in studying, because all examples there with amazing illustrations. It was really helpful to understand basics of flexbox technique instead of dozens of boring articles :)
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_responsive_web_design/frog.jpg) 
 

@@ -76,3 +76,16 @@ Also I finished very interesting Flexbox Froggy tutorial with tasks. To my mind,
 
 ![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_responsive_web_design/frog.jpg) 
 
+
+## JS Basics
+
+I have completed the course Intro to JS. There were a lot of interesting examples with donuts and exercises for understanding how to works with arrays and objects. It's very important fundamentals for working with JavaScript or any programming language.
+
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_js_basics/js-intro.png)
+
+Freecodecamp Algorithm Scripting Challenges were amazing!!! These tasks were the most interesting and the hardest for me in this course, because they need to summarize all my knowledge about basics of JS.
+After completing this tasks I have got good skills with string and array methods such as indexOf and charAt, also I have practiced with case/switch construction, conditionals and 'for' loops.
+Also I learned that we can use 'arguments' special variable for working with all function arguments. 
+After completing these challenges I have got more confidence in algorithms tasks and it's really cool!!!   
+
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_js_basics/freecodecamp.jpg) 

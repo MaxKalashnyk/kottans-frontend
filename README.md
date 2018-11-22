@@ -89,3 +89,26 @@ Also I learned that we can use 'arguments' special variable for working with all
 After completing these challenges I have got more confidence in algorithms tasks and it's really cool!!!   
 
 ![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_js_basics/freecodecamp.jpg) 
+
+
+## DOM
+
+Completed course JavaScript and the DOM was very interesting.
+There are a lot of useful cases described there. The most important topics:
+
+* creating elements with createDocumentFragment method;
+* using performance.now() for measuring code performance;
+* difference between textContent and innerText methods;
+* monitoring events with Chrome Monitor Events;
+* event loop, call stack;
+* the most important thing from code performance optimization - events delegation.
+
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_js_dom/dom-udacity.png)
+
+The second part of algorithms from freecodecamp Algorithm Scripting Challenges was harder than previous.
+Most of tasks I solved at school or at the university, but sometimes I use google for solving some part of task or got hints and made analysis.
+
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_js_dom/algorithms.jpg)
+
+The third practical part was quite easy. But mentor Anastasiia helped me with code optimization and with making logic more clean and simple.
+Thanks her for it!!! Now my code is still reviewing by mentor.  

@@ -114,5 +114,5 @@ The third practical part was quite easy. Also mentor Anastasiia helped me with c
 Thanks her for it!!! 
 
 [Link](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/kalash14/js-dom/script.js) to this subtask.
-Reviewed and approved by @AMashoshyna
+Reviewed and approved by [@AMashoshyna](https://github.com/AMashoshyna)
 

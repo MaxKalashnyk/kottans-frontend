@@ -110,5 +110,9 @@ Most of tasks I solved at school or at the university, but sometimes I use googl
 
 ![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_js_dom/algorithms.jpg)
 
-The third practical part was quite easy. But mentor Anastasiia helped me with code optimization and with making logic more clean and simple.
-Thanks her for it!!! Now my code is still reviewing by mentor.  
+The third practical part was quite easy. Also mentor Anastasiia helped me with code optimization and with making logic more clean and simple.
+Thanks her for it!!! 
+
+[Link](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/kalash14/js-dom/script.js) to this subtask.
+Reviewed and approved by @AMashoshyna
+

@@ -120,7 +120,7 @@ Reviewed and approved by [@AMashoshyna](https://github.com/AMashoshyna)
 ## A Tiny JS World
 
 [Link](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/kalash14/a-tiny-JS-world/index.js) to this task.
-Reviewed and approved by @OleksiyRudenko
+Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko/)
 
 It was an easy task, but in process I've learned a lot of fundamental principles of OOP. 
 Also I learned a lot of useful information from pinned articles such as: objects copying, how to use Object.assign method, objects design patterns and 

@@ -116,3 +116,13 @@ Thanks her for it!!!
 [Link](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/kalash14/js-dom/script.js) to this subtask.
 Reviewed and approved by @AMashoshyna
 
+
+## A Tiny JS World
+
+[Link](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/kalash14/a-tiny-JS-world/index.js) to this task.
+Reviewed and approved by @OleksiyRudenko
+
+It was an easy task, but in process I've learned a lot of fundamental principles of OOP. 
+Also I learned a lot of useful information from pinned articles such as: objects copying, how to use Object.assign method, objects design patterns and 
+how to use ES6 classes.
+

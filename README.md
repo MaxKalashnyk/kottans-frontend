@@ -142,11 +142,13 @@ Superclasses and subclasses were new for me too.
 Also I practiced algorithmic tasks in Codewars. I registred here more than 3 years ago, but it's still actual for me and other developers 
 for practicing any programming language and algorithmic skills.  
 
-[Codewars] (https://www.codewars.com/users/mx_kalash)
+[Codewars](https://www.codewars.com/users/mx_kalash)
+
 ![Codewars screenshot](https://github.com/kalash14/kottans-frontend/blob/master/task_js_oop/codewars.png)
 
-Frogger game ([Demo] (https://kalash14.github.io/frogger-game/) | [Code] (https://github.com/kalash14/frogger-game)) is reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko).
+Frogger game ([Demo](https://kalash14.github.io/frogger-game/) | [Code](https://github.com/kalash14/frogger-game)) is reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko).
 It was cool practice for OOP JS theory and it was the first game I've developed!!!
 According to mentor's recommendations I've made some code optimizations and fixes.
+
 
 

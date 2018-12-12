@@ -120,9 +120,33 @@ Reviewed and approved by [@AMashoshyna](https://github.com/AMashoshyna)
 ## A Tiny JS World
 
 [Link](https://github.com/kottans/frontend-2019-homeworks/blob/master/submissions/kalash14/a-tiny-JS-world/index.js) to this task.
-Reviewed and approved by @OleksiyRudenko
+Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko/)
 
 It was an easy task, but in process I've learned a lot of fundamental principles of OOP. 
 Also I learned a lot of useful information from pinned articles such as: objects copying, how to use Object.assign method, objects design patterns and 
 how to use ES6 classes.
+
+## Object Oriented JS
+
+I have finished this important part of the course.
+Here I learned a lot of new things from object oriented javascript. 
+
+The most interesting in Obejct oriented JS was developing an arcade game Frogger, where I have used all my knowledge from 
+OOP and DOM manipulations.
+Also I learned how prototype chains work and learned that prototype chain is objects chain used for inheritance and shared parameters.
+In order to reuse code we can use delegation based inheritance (prototype based inheritance).
+Superclasses and subclasses were new for me too. 
+
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_js_oop/oop-js-udacity.png)
+
+Also I practiced algorithmic tasks in Codewars. I registred here more than 3 years ago, but it's still actual for me and other developers 
+for practicing any programming language and algorithmic skills.  
+
+[Codewars] (https://www.codewars.com/users/mx_kalash)
+![Codewars screenshot](https://github.com/kalash14/kottans-frontend/blob/master/task_js_oop/codewars.png)
+
+Frogger game ([Demo] (https://kalash14.github.io/frogger-game/) | [Code] (https://github.com/kalash14/frogger-game)) is reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko).
+It was cool practice for OOP JS theory and it was the first game I've developed!!!
+According to mentor's recommendations I've made some code optimizations and fixes.
+
 

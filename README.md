@@ -160,6 +160,8 @@ According to mentor's recommendations I've made some code optimizations and fixe
 
 ## Friends App
 
+This task is reviewed and approved by @zonzujiro.
+
 [Demo](http://kalash14.github.io/friends-app/) | [Code](https://github.com/kalash14/friends-app)
 
 I have finished this interesting task. Here I have practiced with array methods, DOM manipulation, improved my skills with getting data from API using ES6 fetch method.

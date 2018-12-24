@@ -150,5 +150,20 @@ Frogger game ([Demo](https://kalash14.github.io/frogger-game/) | [Code](https://
 It was cool practice for OOP JS theory and it was the first game I've developed!!!
 According to mentor's recommendations I've made some code optimizations and fixes.
 
+## OOP exercise
+
+## Offline Web Applications
+
+## Memory pair game
+
+## Website Performance Optimization
+
+## Friends App
+
+[Demo](http://kalash14.github.io/friends-app/) | [Code](https://github.com/kalash14/friends-app)
+
+I have finished this interesting task. Here I have practiced with array methods, DOM manipulation, improved my skills with getting data from API using ES6 fetch method.
+Also I've made this app responsive. 
+
 
 

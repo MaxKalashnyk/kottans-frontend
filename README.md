@@ -162,6 +162,13 @@ Also, 'Serviceworkies mastery games' contained very useful cases about service w
 
 ## Memory pair game
 
+This task is reviewed and approved by @zonzujiro.
+
+[Demo](http://kalash14.github.io/memory-pair-game/) | [Code](https://github.com/kalash14/memory-pair-game)
+
+I've finished this task. It was one of the most interesting task on the course. Developing this game is very useful practical task, because it allowed to practice almost all passed course theory topics.
+Here I practiced array methods, working with date (I created a stopwatch), working with localstorage etc.
+
 ## Website Performance Optimization
 
 ## Friends App

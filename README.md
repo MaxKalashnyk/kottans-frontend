@@ -154,6 +154,12 @@ According to mentor's recommendations I've made some code optimizations and fixe
 
 ## Offline Web Applications
 
+![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_offline_web_apps/Offline-web-apps.png)
+
+I have finished this task. There were a lot of interesting and new for me instruments such as offline first approach in building web apps, service workers and working with IndexedDB.
+There were a lot of examples how to create and manage data in IndexedDB and there was interesting information about caching images. 
+Also, 'Serviceworkies mastery games' contained very useful cases about service workers.
+
 ## Memory pair game
 
 ## Website Performance Optimization

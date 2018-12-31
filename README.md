@@ -152,6 +152,13 @@ According to mentor's recommendations I've made some code optimizations and fixe
 
 ## OOP exercise
 
+[Demo](https://kalash14.github.io/oop-exercise/) | [Code](https://github.com/kalash14/oop-exercise/blob/master/index.js)
+
+Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko/)
+
+Very useful pratical task. 
+Thanks to the mentor's pieces of advice and recommendations I have learned best practices of how to work with ES6 classes, also how to inherit properties of base class etc.
+
 ## Offline Web Applications
 
 ![Course progress](https://github.com/kalash14/kottans-frontend/blob/master/task_offline_web_apps/Offline-web-apps.png)

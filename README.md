@@ -178,6 +178,21 @@ Here I practiced array methods, working with date (I created a stopwatch), worki
 
 ## Website Performance Optimization
 
+I've finished this task and I have learned a lot of new technologies here.
+For example, I learned how to work with srcset image property. It's very useful feature for working with responsive layout and with images in Retina screens.
+Much attention is given to browser profiling tools in Udacity courses.
+For me also it was very interesting and surprised to calculate layers of some website and inspect full website in 3D view.
+There were cases about will-change CSS property and how to use it for animations optimizing and full process of displaying webpage in the browser.
+Also, thanks course developers for useful articles about aspects of browser working and asynchronous JS.
+
+Udacity courses progress is displayed below:
+
+![Website performance optimization](https://github.com/kalash14/kottans-frontend/blob/master/task_performance/performance.png)
+
+![Browser rendering optimization](https://github.com/kalash14/kottans-frontend/blob/master/task_performance/browser-rendering.png)
+
+![Responsive Images](https://github.com/kalash14/kottans-frontend/blob/master/task_performance/resp-images.png)
+
 ## Friends App
 
 This task is reviewed and approved by @zonzujiro.
